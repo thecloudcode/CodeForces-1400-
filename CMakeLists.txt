@@ -53,4 +53,20 @@ add_executable(CodeForces
         "Smallest Number.cpp"
         Hometask.cpp
         "CodeForces Beta Round 1/Spreadsheets.cpp"
+        "Jumping Jack.cpp"
+        "Geometry Horse.cpp"
+        Sanish.cpp
+        Sanish2.cpp
+        Sanish3.cpp
+        "Anfisa the Monkey.cpp"
+        Priyanshu1.cpp
+        Priyanshu2.cpp
+        "Literature Lesson.cpp"
+        "Modified GCD.cpp"
+        Mafia.cpp
+        Hamburgers.cpp
+        "Counting Kangaroos is Fun.cpp"
+        "Tourist's Space.cpp"
 )
+
+

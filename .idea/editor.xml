@@ -99,5 +99,15 @@
     <option name="/Default/CodeStyle/CodeFormatting/CppFormatting/INDENT_SIZE/@EntryValue" value="4" type="int" />
     <option name="/Default/CodeStyle/CodeFormatting/CppFormatting/CONTINUOUS_LINE_INDENT/@EntryValue" value="Double" type="string" />
     <option name="/Default/CodeStyle/CodeFormatting/CppFormatting/TAB_WIDTH/@EntryValue" value="4" type="int" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=ACAEA3474448EC4794FBB89925F8FFB0/@KeyIndexDefined" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=ACAEA3474448EC4794FBB89925F8FFB0/Reformat/@EntryValue" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=ACAEA3474448EC4794FBB89925F8FFB0/ShortenQualifiedReferences/@EntryValue" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=ACAEA3474448EC4794FBB89925F8FFB0/Applicability/=Live/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=ACAEA3474448EC4794FBB89925F8FFB0/Applicability/=Live/@EntryIndexRemoved" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=ACAEA3474448EC4794FBB89925F8FFB0/Scope/=F6696F8185506F41B9C4252540BE9C18/@KeyIndexDefined" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=ACAEA3474448EC4794FBB89925F8FFB0/Scope/=F6696F8185506F41B9C4252540BE9C18/Type/@EntryValue" value="InCppFile" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=ACAEA3474448EC4794FBB89925F8FFB0/Text/@EntryValue" value="/* Badal Prasad Singh */&#10;&#10;#include&lt;bits/stdc++.h&gt;&#10;using namespace std;&#10;&#10;#define fast  ios_base::sync_with_stdio(false); cin.tie(0); cout.tie(0);&#10;#define yes cout&lt;&lt;&quot;YES&quot;&lt;&lt;endl;&#10;#define lol long long int&#10;#define no cout&lt;&lt;&quot;NO&quot;&lt;&lt;endl;&#10;#define noo cout&lt;&lt;-1&lt;&lt;endl;&#10;#define anz cout&lt;&lt;ans&lt;&lt;endl;&#10;&#10;void solve(){&#10;    &#10;}&#10;&#10;int main(){&#10;    fast;&#10;    lol t = 1;&#10;    cin&gt;&gt;t;&#10;    while(t--) solve();&#10;}&#10;" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=ACAEA3474448EC4794FBB89925F8FFB0/Shortcut/@EntryValue" value="start" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=ACAEA3474448EC4794FBB89925F8FFB0/Description/@EntryValue" value="CP code" type="string" />
   </component>
 </project>

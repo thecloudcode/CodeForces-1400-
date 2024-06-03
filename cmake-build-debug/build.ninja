@@ -343,6 +343,90 @@ build CMakeFiles/CodeForces.dir/CodeForces_Beta_Round_1/Spreadsheets.cpp.obj: CX
   OBJECT_DIR = CMakeFiles\CodeForces.dir
   OBJECT_FILE_DIR = CMakeFiles\CodeForces.dir\CodeForces_Beta_Round_1
 
+build CMakeFiles/CodeForces.dir/Jumping_Jack.cpp.obj: CXX_COMPILER__CodeForces_unscanned_Debug C$:/Users/badal/CLionProjects/CodeForces/Jumping$ Jack.cpp || cmake_object_order_depends_target_CodeForces
+  DEP_FILE = CMakeFiles\CodeForces.dir\Jumping_Jack.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CodeForces.dir
+  OBJECT_FILE_DIR = CMakeFiles\CodeForces.dir
+
+build CMakeFiles/CodeForces.dir/Geometry_Horse.cpp.obj: CXX_COMPILER__CodeForces_unscanned_Debug C$:/Users/badal/CLionProjects/CodeForces/Geometry$ Horse.cpp || cmake_object_order_depends_target_CodeForces
+  DEP_FILE = CMakeFiles\CodeForces.dir\Geometry_Horse.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CodeForces.dir
+  OBJECT_FILE_DIR = CMakeFiles\CodeForces.dir
+
+build CMakeFiles/CodeForces.dir/Sanish.cpp.obj: CXX_COMPILER__CodeForces_unscanned_Debug C$:/Users/badal/CLionProjects/CodeForces/Sanish.cpp || cmake_object_order_depends_target_CodeForces
+  DEP_FILE = CMakeFiles\CodeForces.dir\Sanish.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CodeForces.dir
+  OBJECT_FILE_DIR = CMakeFiles\CodeForces.dir
+
+build CMakeFiles/CodeForces.dir/Sanish2.cpp.obj: CXX_COMPILER__CodeForces_unscanned_Debug C$:/Users/badal/CLionProjects/CodeForces/Sanish2.cpp || cmake_object_order_depends_target_CodeForces
+  DEP_FILE = CMakeFiles\CodeForces.dir\Sanish2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CodeForces.dir
+  OBJECT_FILE_DIR = CMakeFiles\CodeForces.dir
+
+build CMakeFiles/CodeForces.dir/Sanish3.cpp.obj: CXX_COMPILER__CodeForces_unscanned_Debug C$:/Users/badal/CLionProjects/CodeForces/Sanish3.cpp || cmake_object_order_depends_target_CodeForces
+  DEP_FILE = CMakeFiles\CodeForces.dir\Sanish3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CodeForces.dir
+  OBJECT_FILE_DIR = CMakeFiles\CodeForces.dir
+
+build CMakeFiles/CodeForces.dir/Anfisa_the_Monkey.cpp.obj: CXX_COMPILER__CodeForces_unscanned_Debug C$:/Users/badal/CLionProjects/CodeForces/Anfisa$ the$ Monkey.cpp || cmake_object_order_depends_target_CodeForces
+  DEP_FILE = CMakeFiles\CodeForces.dir\Anfisa_the_Monkey.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CodeForces.dir
+  OBJECT_FILE_DIR = CMakeFiles\CodeForces.dir
+
+build CMakeFiles/CodeForces.dir/Priyanshu1.cpp.obj: CXX_COMPILER__CodeForces_unscanned_Debug C$:/Users/badal/CLionProjects/CodeForces/Priyanshu1.cpp || cmake_object_order_depends_target_CodeForces
+  DEP_FILE = CMakeFiles\CodeForces.dir\Priyanshu1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CodeForces.dir
+  OBJECT_FILE_DIR = CMakeFiles\CodeForces.dir
+
+build CMakeFiles/CodeForces.dir/Priyanshu2.cpp.obj: CXX_COMPILER__CodeForces_unscanned_Debug C$:/Users/badal/CLionProjects/CodeForces/Priyanshu2.cpp || cmake_object_order_depends_target_CodeForces
+  DEP_FILE = CMakeFiles\CodeForces.dir\Priyanshu2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CodeForces.dir
+  OBJECT_FILE_DIR = CMakeFiles\CodeForces.dir
+
+build CMakeFiles/CodeForces.dir/Literature_Lesson.cpp.obj: CXX_COMPILER__CodeForces_unscanned_Debug C$:/Users/badal/CLionProjects/CodeForces/Literature$ Lesson.cpp || cmake_object_order_depends_target_CodeForces
+  DEP_FILE = CMakeFiles\CodeForces.dir\Literature_Lesson.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CodeForces.dir
+  OBJECT_FILE_DIR = CMakeFiles\CodeForces.dir
+
+build CMakeFiles/CodeForces.dir/Modified_GCD.cpp.obj: CXX_COMPILER__CodeForces_unscanned_Debug C$:/Users/badal/CLionProjects/CodeForces/Modified$ GCD.cpp || cmake_object_order_depends_target_CodeForces
+  DEP_FILE = CMakeFiles\CodeForces.dir\Modified_GCD.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CodeForces.dir
+  OBJECT_FILE_DIR = CMakeFiles\CodeForces.dir
+
+build CMakeFiles/CodeForces.dir/Mafia.cpp.obj: CXX_COMPILER__CodeForces_unscanned_Debug C$:/Users/badal/CLionProjects/CodeForces/Mafia.cpp || cmake_object_order_depends_target_CodeForces
+  DEP_FILE = CMakeFiles\CodeForces.dir\Mafia.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CodeForces.dir
+  OBJECT_FILE_DIR = CMakeFiles\CodeForces.dir
+
+build CMakeFiles/CodeForces.dir/Hamburgers.cpp.obj: CXX_COMPILER__CodeForces_unscanned_Debug C$:/Users/badal/CLionProjects/CodeForces/Hamburgers.cpp || cmake_object_order_depends_target_CodeForces
+  DEP_FILE = CMakeFiles\CodeForces.dir\Hamburgers.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CodeForces.dir
+  OBJECT_FILE_DIR = CMakeFiles\CodeForces.dir
+
+build CMakeFiles/CodeForces.dir/Counting_Kangaroos_is_Fun.cpp.obj: CXX_COMPILER__CodeForces_unscanned_Debug C$:/Users/badal/CLionProjects/CodeForces/Counting$ Kangaroos$ is$ Fun.cpp || cmake_object_order_depends_target_CodeForces
+  DEP_FILE = CMakeFiles\CodeForces.dir\Counting_Kangaroos_is_Fun.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CodeForces.dir
+  OBJECT_FILE_DIR = CMakeFiles\CodeForces.dir
+
+build CMakeFiles/CodeForces.dir/Tourist's_Space.cpp.obj: CXX_COMPILER__CodeForces_unscanned_Debug C$:/Users/badal/CLionProjects/CodeForces/Tourist's$ Space.cpp || cmake_object_order_depends_target_CodeForces
+  DEP_FILE = "CMakeFiles\CodeForces.dir\Tourist's_Space.cpp.obj.d"
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CodeForces.dir
+  OBJECT_FILE_DIR = CMakeFiles\CodeForces.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target CodeForces
@@ -351,7 +435,7 @@ build CMakeFiles/CodeForces.dir/CodeForces_Beta_Round_1/Spreadsheets.cpp.obj: CX
 #############################################
 # Link the executable CodeForces.exe
 
-build CodeForces.exe: CXX_EXECUTABLE_LINKER__CodeForces_Debug CMakeFiles/CodeForces.dir/Gas_Pipeline.cpp.obj CMakeFiles/CodeForces.dir/Sweets_Eating.cpp.obj CMakeFiles/CodeForces.dir/Odd_Sum.cpp.obj CMakeFiles/CodeForces.dir/DId_you_mean....cpp.obj CMakeFiles/CodeForces.dir/Banana.cpp.obj CMakeFiles/CodeForces.dir/Physics_Practical.cpp.obj CMakeFiles/CodeForces.dir/More_Cowbell.cpp.obj CMakeFiles/CodeForces.dir/Maximum_Median.cpp.obj CMakeFiles/CodeForces.dir/Charming_Meals.cpp.obj CMakeFiles/CodeForces.dir/Quests.cpp.obj CMakeFiles/CodeForces.dir/Burning_Midnight_Oil.cpp.obj CMakeFiles/CodeForces.dir/Queue.cpp.obj CMakeFiles/CodeForces.dir/Magic_Powder_-_2.cpp.obj CMakeFiles/CodeForces.dir/Frodo_and_Pillows.cpp.obj CMakeFiles/CodeForces.dir/Candies.cpp.obj CMakeFiles/CodeForces.dir/Sagheer_and_Nubian_Market_.cpp.obj CMakeFiles/CodeForces.dir/Almost_Increasing_Subsequence.cpp.obj CMakeFiles/CodeForces.dir/Divide_the_Students.cpp.obj CMakeFiles/CodeForces.dir/Triangle.cpp.obj CMakeFiles/CodeForces.dir/Permutations.cpp.obj CMakeFiles/CodeForces.dir/Cola.cpp.obj CMakeFiles/CodeForces.dir/Division_into_Teams.cpp.obj CMakeFiles/CodeForces.dir/Painting_Eggs.cpp.obj CMakeFiles/CodeForces.dir/Lawnmower.cpp.obj CMakeFiles/CodeForces.dir/Median.cpp.obj CMakeFiles/CodeForces.dir/Squares_and_Rectangles.cpp.obj CMakeFiles/CodeForces.dir/Weird_Game.cpp.obj CMakeFiles/CodeForces.dir/Sheldon_and_Ice_Pieces.cpp.obj CMakeFiles/CodeForces.dir/Vasya_and_Robot.cpp.obj CMakeFiles/CodeForces.dir/Two_Semiknights_Meet.cpp.obj CMakeFiles/CodeForces.dir/Feed_with_Candy.cpp.obj CMakeFiles/CodeForces.dir/Treasure.cpp.obj CMakeFiles/CodeForces.dir/Bus.cpp.obj CMakeFiles/CodeForces.dir/Planning.cpp.obj CMakeFiles/CodeForces.dir/Heaters.cpp.obj CMakeFiles/CodeForces.dir/Lightsabers.cpp.obj CMakeFiles/CodeForces.dir/Leibig's_Barrels.cpp.obj CMakeFiles/CodeForces.dir/Fight_with_Monsters.cpp.obj CMakeFiles/CodeForces.dir/Workout_Plan.cpp.obj CMakeFiles/CodeForces.dir/Good_numbers_hard_version.cpp.obj CMakeFiles/CodeForces.dir/Find_the_Car.cpp.obj CMakeFiles/CodeForces.dir/ABBC_or_BACB_.cpp.obj CMakeFiles/CodeForces.dir/Special_Element.cpp.obj CMakeFiles/CodeForces.dir/Decrease_the_Sum_of_Digits.cpp.obj CMakeFiles/CodeForces.dir/Memory_manager.cpp.obj CMakeFiles/CodeForces.dir/Energy_Exchange.cpp.obj CMakeFiles/CodeForces.dir/Smallest_Number.cpp.obj CMakeFiles/CodeForces.dir/Hometask.cpp.obj CMakeFiles/CodeForces.dir/CodeForces_Beta_Round_1/Spreadsheets.cpp.obj
+build CodeForces.exe: CXX_EXECUTABLE_LINKER__CodeForces_Debug CMakeFiles/CodeForces.dir/Gas_Pipeline.cpp.obj CMakeFiles/CodeForces.dir/Sweets_Eating.cpp.obj CMakeFiles/CodeForces.dir/Odd_Sum.cpp.obj CMakeFiles/CodeForces.dir/DId_you_mean....cpp.obj CMakeFiles/CodeForces.dir/Banana.cpp.obj CMakeFiles/CodeForces.dir/Physics_Practical.cpp.obj CMakeFiles/CodeForces.dir/More_Cowbell.cpp.obj CMakeFiles/CodeForces.dir/Maximum_Median.cpp.obj CMakeFiles/CodeForces.dir/Charming_Meals.cpp.obj CMakeFiles/CodeForces.dir/Quests.cpp.obj CMakeFiles/CodeForces.dir/Burning_Midnight_Oil.cpp.obj CMakeFiles/CodeForces.dir/Queue.cpp.obj CMakeFiles/CodeForces.dir/Magic_Powder_-_2.cpp.obj CMakeFiles/CodeForces.dir/Frodo_and_Pillows.cpp.obj CMakeFiles/CodeForces.dir/Candies.cpp.obj CMakeFiles/CodeForces.dir/Sagheer_and_Nubian_Market_.cpp.obj CMakeFiles/CodeForces.dir/Almost_Increasing_Subsequence.cpp.obj CMakeFiles/CodeForces.dir/Divide_the_Students.cpp.obj CMakeFiles/CodeForces.dir/Triangle.cpp.obj CMakeFiles/CodeForces.dir/Permutations.cpp.obj CMakeFiles/CodeForces.dir/Cola.cpp.obj CMakeFiles/CodeForces.dir/Division_into_Teams.cpp.obj CMakeFiles/CodeForces.dir/Painting_Eggs.cpp.obj CMakeFiles/CodeForces.dir/Lawnmower.cpp.obj CMakeFiles/CodeForces.dir/Median.cpp.obj CMakeFiles/CodeForces.dir/Squares_and_Rectangles.cpp.obj CMakeFiles/CodeForces.dir/Weird_Game.cpp.obj CMakeFiles/CodeForces.dir/Sheldon_and_Ice_Pieces.cpp.obj CMakeFiles/CodeForces.dir/Vasya_and_Robot.cpp.obj CMakeFiles/CodeForces.dir/Two_Semiknights_Meet.cpp.obj CMakeFiles/CodeForces.dir/Feed_with_Candy.cpp.obj CMakeFiles/CodeForces.dir/Treasure.cpp.obj CMakeFiles/CodeForces.dir/Bus.cpp.obj CMakeFiles/CodeForces.dir/Planning.cpp.obj CMakeFiles/CodeForces.dir/Heaters.cpp.obj CMakeFiles/CodeForces.dir/Lightsabers.cpp.obj CMakeFiles/CodeForces.dir/Leibig's_Barrels.cpp.obj CMakeFiles/CodeForces.dir/Fight_with_Monsters.cpp.obj CMakeFiles/CodeForces.dir/Workout_Plan.cpp.obj CMakeFiles/CodeForces.dir/Good_numbers_hard_version.cpp.obj CMakeFiles/CodeForces.dir/Find_the_Car.cpp.obj CMakeFiles/CodeForces.dir/ABBC_or_BACB_.cpp.obj CMakeFiles/CodeForces.dir/Special_Element.cpp.obj CMakeFiles/CodeForces.dir/Decrease_the_Sum_of_Digits.cpp.obj CMakeFiles/CodeForces.dir/Memory_manager.cpp.obj CMakeFiles/CodeForces.dir/Energy_Exchange.cpp.obj CMakeFiles/CodeForces.dir/Smallest_Number.cpp.obj CMakeFiles/CodeForces.dir/Hometask.cpp.obj CMakeFiles/CodeForces.dir/CodeForces_Beta_Round_1/Spreadsheets.cpp.obj CMakeFiles/CodeForces.dir/Jumping_Jack.cpp.obj CMakeFiles/CodeForces.dir/Geometry_Horse.cpp.obj CMakeFiles/CodeForces.dir/Sanish.cpp.obj CMakeFiles/CodeForces.dir/Sanish2.cpp.obj CMakeFiles/CodeForces.dir/Sanish3.cpp.obj CMakeFiles/CodeForces.dir/Anfisa_the_Monkey.cpp.obj CMakeFiles/CodeForces.dir/Priyanshu1.cpp.obj CMakeFiles/CodeForces.dir/Priyanshu2.cpp.obj CMakeFiles/CodeForces.dir/Literature_Lesson.cpp.obj CMakeFiles/CodeForces.dir/Modified_GCD.cpp.obj CMakeFiles/CodeForces.dir/Mafia.cpp.obj CMakeFiles/CodeForces.dir/Hamburgers.cpp.obj CMakeFiles/CodeForces.dir/Counting_Kangaroos_is_Fun.cpp.obj CMakeFiles/CodeForces.dir/Tourist's_Space.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CodeForces.dir
