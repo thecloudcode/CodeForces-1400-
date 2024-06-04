@@ -114,7 +114,13 @@
 				59,
 				60,
 				61,
-				62
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68
 			]
 		}
 	],
@@ -213,7 +219,13 @@
 				59,
 				60,
 				61,
-				62
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68
 			]
 		}
 	],
@@ -595,6 +607,42 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "Tourist's Space.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Enduring Exodus.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "New Skateboard.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Weather.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Art Union.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Hamiltonian Wall.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Seraphim the Owl.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

@@ -67,6 +67,12 @@ add_executable(CodeForces
         Hamburgers.cpp
         "Counting Kangaroos is Fun.cpp"
         "Tourist's Space.cpp"
+        "Enduring Exodus.cpp"
+        "New Skateboard.cpp"
+        Weather.cpp
+        "Art Union.cpp"
+        "Hamiltonian Wall.cpp"
+        "Seraphim the Owl.cpp"
 )
 
 
