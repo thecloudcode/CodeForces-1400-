@@ -73,6 +73,17 @@ add_executable(CodeForces
         "Art Union.cpp"
         "Hamiltonian Wall.cpp"
         "Seraphim the Owl.cpp"
+        Letter.cpp
+        "Basketball Excercise.cpp"
+        "Our Tanya is Crying Out Loud .cpp"
+        "Constanze's Machine .cpp"
+        "CSES - DP/Dice Combinations.cpp"
+        "CSES - DP/Minimizing Coins.cpp"
+        "CSES - DP/Coin Combinatrics I.cpp"
+        "CSES - DP/Coin Combinartrics II.cpp"
+        "As Simple as One and Two.cpp"
+        "K for the Price of One.cpp"
+        "CSES - DP/Removing Digits.cpp"
 )
 
 
