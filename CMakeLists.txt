@@ -84,6 +84,7 @@ add_executable(CodeForces
         "As Simple as One and Two.cpp"
         "K for the Price of One.cpp"
         "CSES - DP/Removing Digits.cpp"
+        "CSES - DP/Grid Paths.cpp"
 )
 
 
