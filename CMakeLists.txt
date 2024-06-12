@@ -97,6 +97,8 @@ add_executable(CodeForces
         "Orac and Models.cpp"
         "Round Table Knights.cpp"
         "BasketBall Team.cpp"
+        "Multicolored Marbles.cpp"
+        "Color Stripe.cpp"
 )
 
 
