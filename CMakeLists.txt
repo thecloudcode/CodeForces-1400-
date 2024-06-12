@@ -85,6 +85,18 @@ add_executable(CodeForces
         "K for the Price of One.cpp"
         "CSES - DP/Removing Digits.cpp"
         "CSES - DP/Grid Paths.cpp"
+        "CSES - DP/Book Shop.cpp"
+        "Game on Permutation.cpp"
+        "I hate 1111.cpp"
+        "Find the Spruce.cpp"
+        "CSES - DP/Array Discription.cpp"
+        "CSES - DP/Array Description Tabulated.cpp"
+        "Hossam and Friends.cpp"
+        "CSES - DP/Array Description/Array Description 2.cpp"
+        "Another Problem on Strings.cpp"
+        "Orac and Models.cpp"
+        "Round Table Knights.cpp"
+        "BasketBall Team.cpp"
 )
 
 
