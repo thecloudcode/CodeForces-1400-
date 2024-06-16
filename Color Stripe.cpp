@@ -28,9 +28,9 @@ void solve() {
             int b = (int)(x[i + 1]);
             // cout<<a<<" "<<b<<endl;
             if (abs(a - b) == 1) {
-                x[i] = (char)(min(a,b) - 1);
+                x[i] = (char)(min(a,b) - 0);
             } else {
-                x[i] = (char)(max(a, b) - 1);
+                x[i] = (char)(max(a, b) - 0);
             }
             if ((int)(x[i]) < 65) {
                 x[i] = (char)((int)(x[i]) + k);
