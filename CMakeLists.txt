@@ -101,6 +101,7 @@ add_executable(CodeForces
         "Color Stripe.cpp"
         "Mysterious Present.cpp"
         Animals.cpp
+        "CSES - DP/Counting Towers.cpp"
 )
 
 
