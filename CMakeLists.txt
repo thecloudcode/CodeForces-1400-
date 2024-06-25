@@ -99,6 +99,8 @@ add_executable(CodeForces
         "BasketBall Team.cpp"
         "Multicolored Marbles.cpp"
         "Color Stripe.cpp"
+        "Mysterious Present.cpp"
+        Animals.cpp
 )
 
 
