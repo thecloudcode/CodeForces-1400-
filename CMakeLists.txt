@@ -102,6 +102,8 @@ add_executable(CodeForces
         "Mysterious Present.cpp"
         Animals.cpp
         "CSES - DP/Counting Towers.cpp"
+        "CSES - DP/Edit Distance.cpp"
+        "CSES - DP/Rectangle Cutting.cpp"
 )
 
 

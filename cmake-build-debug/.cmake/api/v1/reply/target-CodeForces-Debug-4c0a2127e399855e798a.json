@@ -149,7 +149,9 @@
 				94,
 				95,
 				96,
-				97
+				97,
+				98,
+				99
 			]
 		}
 	],
@@ -283,7 +285,9 @@
 				94,
 				95,
 				96,
-				97
+				97,
+				98,
+				99
 			]
 		}
 	],
@@ -875,6 +879,18 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "CSES - DP/Counting Towers.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "CSES - DP/Edit Distance.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "CSES - DP/Rectangle Cutting.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
