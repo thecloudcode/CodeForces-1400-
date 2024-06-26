@@ -5,24 +5,35 @@ using namespace std;
 
 #define fast  ios_base::sync_with_stdio(false); cin.tie(0); cout.tie(0);
 #define yes cout<<"YES"<<endl;
-#define lol long long int
+#define lol int
 #define no cout<<"NO"<<endl;
 #define noo cout<<-1<<endl;
 #define anz cout<<ans<<endl;
 
-void solve() {
-    lol a; lol b; cin>>a>>b; lol ans = 0;
-    while(a!=b) {
-        if(a>b) a-=b;
-        else if(b>a) b-=a;
-        ans++;
+vector<vector<lol>>dp(501,vector<lol>(501, -1));
+
+lol f(lol a, lol b) {
+    if(dp[a][b]!=-1) return dp[a][b];
+    if(a==b) return dp[a][b] = 0;
+    if(a==1) return dp[a][b] = b-1;
+    if(b==1) return dp[a][b] = a-1;
+    lol ans = INT_MAX;
+    for(lol i=1;i<a;i++) {
+        ans=min(ans,1+f(i,b)+f(a-i,b));
     }
-    cout<<ans<<endl;
+    for(lol i=1;i<b;i++) {
+        ans=min(ans,1+f(a,i)+f(a,b-i));
+    }
+    return dp[a][b] = ans;
+}
+
+void solve() {
+    lol a; lol b; cin>>a>>b;
+    cout<<f(a,b)<<endl;
 }
 
 int main() {
     fast;
     lol t = 1;
-    cin >> t;
     while (t--) solve();
 }
