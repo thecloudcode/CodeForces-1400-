@@ -105,6 +105,7 @@ add_executable(CodeForces
         "CSES - DP/Edit Distance.cpp"
         "CSES - DP/Rectangle Cutting.cpp"
         "CSES - DP/Money Sums.cpp"
+        "CSES - DP/Removal Game.cpp"
 )
 
 
