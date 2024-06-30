@@ -108,6 +108,7 @@ add_executable(CodeForces
         "CSES - DP/Removal Game.cpp"
         "CSES - DP/Two Sets II.cpp"
         "CSES - DP/Increasing Subsequence.cpp"
+        "CSES - DP/Increasing Subsequence 2.cpp"
 )
 
 
