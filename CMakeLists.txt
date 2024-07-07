@@ -109,6 +109,9 @@ add_executable(CodeForces
         "CSES - DP/Two Sets II.cpp"
         "CSES - DP/Increasing Subsequence.cpp"
         "CSES - DP/Increasing Subsequence 2.cpp"
+        "CSES - DP/Projects.cpp"
+        "CSES - DP/Projects2.cpp"
+        Square.cpp
 )
 
 
